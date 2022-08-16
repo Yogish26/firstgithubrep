@@ -1,6 +1,6 @@
 
 
-
+i hi i am king 
 22. head filename is used to display first 10 lines in file
 23. head -5 filename
 24. tail filename is used to display lost 10 lines in file
