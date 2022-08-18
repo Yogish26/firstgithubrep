@@ -1,5 +1,10 @@
+my name is yogi
+i don't have gf
+i am still single 
 
 
+
+   
 8. cd <path> to change the dir
 9. cd .. back to dir
 10. touch <file_name>
